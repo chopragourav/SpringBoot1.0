@@ -1,0 +1,21 @@
+package com.verusys.gourav.validation;
+
+import org.springframework.validation.Errors;
+import org.springframework.validation.Validator;
+
+import com.verusys.gourav.entity.Employee;
+
+public class EmployeeFormValidation implements Validator {
+
+	@Override
+	public boolean supports(Class<?> clazz) {
+		return clazz.isAssignableFrom(Employee.class);
+	}
+
+	@Override
+	public void validate(Object target, Errors errors) {
+		
+
+	}
+
+}

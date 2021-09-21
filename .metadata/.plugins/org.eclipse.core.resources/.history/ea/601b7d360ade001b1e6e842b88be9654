@@ -1,0 +1,13 @@
+package com.nt;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringDataJpAj01CrudRepositoryApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringDataJpAj01CrudRepositoryApplication.class, args);
+	}
+
+}

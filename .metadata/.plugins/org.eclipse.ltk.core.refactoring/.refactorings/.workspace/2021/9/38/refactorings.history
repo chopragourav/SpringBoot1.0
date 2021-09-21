@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SpringBootMVCProj07-MiniProject-EmployeeCURD-SoftDeletion&apos; to &apos;SpringBootMVCProj08-MiniProject-EmployeeCURD-SoftDeletion&apos;" description="Rename resource &apos;SpringBootMVCProj07-MiniProject-EmployeeCURD-SoftDeletion&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/SpringBootMVCProj07-MiniProject-EmployeeCURD-SoftDeletion" name="SpringBootMVCProj08-MiniProject-EmployeeCURD-SoftDeletion" stamp="1631525475503" updateReferences="true"/>
+</session>

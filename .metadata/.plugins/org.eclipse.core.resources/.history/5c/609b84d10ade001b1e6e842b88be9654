@@ -1,0 +1,26 @@
+package com.nt;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ApplicationContext;
+import org.springframework.dao.DataAccessException;
+
+import com.nt.service.ICoronaVaccineService;
+
+@SpringBootApplication
+public class SpringDataJpAj01CrudRepositoryApplication {
+
+	public static void main(String[] args) {
+		ApplicationContext ctx=SpringApplication.run(SpringDataJpAj01CrudRepositoryApplication.class, args);
+		ICoronaVaccineService service=ctx.getBean("service", ICoronaVaccineService.class);
+		try {
+			
+		}
+		catch (DataAccessException dae) {
+			dae.printStackTrace();
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+}

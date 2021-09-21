@@ -1,0 +1,16 @@
+package com.nt.service;
+
+import com.nt.entity.CoronaVaccine;
+import com.nt.repo.VaccineRepo;
+
+public class CoronaVaccineServiceImpl implements ICoronaVaccineService {
+	private VaccineRepo vaccineRepo;
+	@Override
+	public String registerVaccine(CoronaVaccine vaccine) {
+		CoronaVaccine saveVaccine=null;
+		if(vaccine!=null)
+			saveVaccine=vaccineRepo.save(vaccine);
+		return saveVaccine!=null?"Vaccine Registered Successfully"+saveVaccine.getRegNo():"Vaccine Registration Failed";
+	}
+
+}

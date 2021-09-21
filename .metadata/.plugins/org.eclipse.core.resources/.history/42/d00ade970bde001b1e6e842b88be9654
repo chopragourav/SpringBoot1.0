@@ -1,0 +1,20 @@
+package com.nt.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.nt.entity.CoronaVaccine;
+import com.nt.repo.VaccineRepo;
+@Service("service")
+public class CoronaVaccineServiceImpl implements ICoronaVaccineService {
+	@Autowired
+	private VaccineRepo vaccineRepo;
+	@Override
+	public String registerVaccine(CoronaVaccine vaccine) {
+		CoronaVaccine saveVaccine=null;
+		if(vaccine!=null)
+			saveVaccine=vaccineRepo.save(vaccine);
+		return saveVaccine!=null?"Vaccine Registered Successfully"+saveVaccine.getRegNo():"Vaccine Registration Failed";
+	}
+
+}

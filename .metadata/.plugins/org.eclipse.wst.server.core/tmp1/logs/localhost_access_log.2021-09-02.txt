@@ -1,0 +1,5 @@
+127.0.0.1 - - [02/Sep/2021:22:36:46 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Sep/2021:22:36:54 +0530] "GET /SpringBootMVCProj04-DataRendering/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [02/Sep/2021:22:36:55 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [02/Sep/2021:22:37:01 +0530] "GET /SpringBootMVCProj04-DataRendering/report HTTP/1.1" 200 665
+0:0:0:0:0:0:0:1 - - [02/Sep/2021:22:38:49 +0530] "GET /SpringBootMVCProj04-DataRendering/report HTTP/1.1" 500 287

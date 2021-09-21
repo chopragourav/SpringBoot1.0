@@ -1,0 +1,66 @@
+xt>
+</msg>
+<msg time='2021-07-06T09:46:47.459+05:30' org_id='oracle' comp_id='tnslsnr'
+ type='UNKNOWN' level='16' host_id='DESKTOP-B6L7KQT'
+ host_addr='fe80::3cc8:90b2:5484:fb48%18'>
+ <txt>06-JUL-2021 09:46:47 * (CONNECT_DATA=(CID=(PROGRAM=)(HOST=)(USER=SYSTEM))(COMMAND=status)(ARGUMENTS=64)(SERVICE=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521)))(VERSION=186646784)) * status * 0
+ </txt>
+</msg>
+<msg time='2021-07-06T09:47:55.987+05:30' org_id='oracle' comp_id='tnslsnr'
+ type='UNKNOWN' level='16' host_id='DESKTOP-B6L7KQT'
+ host_addr='fe80::3cc8:90b2:5484:fb48%18'>
+ <txt>06-JUL-2021 09:47:55 * service_update * orcl * 0
+ </txt>
+</msg>
+<msg time='2021-07-06T09:47:58.991+05:30' org_id='oracle' comp_id='tnslsnr'
+ type='UNKNOWN' level='16' host_id='DESKTOP-B6L7KQT'
+ host_addr='fe80::3cc8:90b2:5484:fb48%18'>
+ <txt>06-JUL-2021 09:47:58 * service_update * orcl * 0
+ </txt>
+</msg>
+<msg time='2021-07-06T09:48:14.023+05:30' org_id='oracle' comp_id='tnslsnr'
+ type='UNKNOWN' level='16' host_id='DESKTOP-B6L7KQT'
+ host_addr='fe80::3cc8:90b2:5484:fb48%18'>
+ <txt>06-JUL-2021 09:48:14 * service_update * orcl * 0
+ </txt>
+</msg>
+<msg time='2021-07-06T09:48:56.145+05:30' org_id='oracle' comp_id='tnslsnr'
+ type='UNKNOWN' level='16' host_id='DESKTOP-B6L7KQT'
+ host_addr='fe80::3cc8:90b2:5484:fb48%18'>
+ <txt>06-JUL-2021 09:48:56 * service_update * orcl * 0
+ </txt>
+</msg>
+<msg time='2021-07-06T09:49:23.318+05:30' org_id='oracle' comp_id='tnslsnr'
+ type='UNKNOWN' level='16' host_id='DESKTOP-B6L7KQT'
+ host_addr='fe80::3cc8:90b2:5484:fb48%18'>
+ <txt>06-JUL-2021 09:49:23 * service_update * orcl * 0
+ </txt>
+</msg>
+<msg time='2021-07-06T09:49:38.358+05:30' org_id='oracle' comp_id='tnslsnr'
+ type='UNKNOWN' level='16' host_id='DESKTOP-B6L7KQT'
+ host_addr='fe80::3cc8:90b2:5484:fb48%18'>
+ <txt>06-JUL-2021 09:49:38 * service_update * orcl * 0
+ </txt>
+</msg>
+<msg time='2021-07-06T09:49:56.402+05:30' org_id='oracle' comp_id='tnslsnr'
+ type='UNKNOWN' level='16' host_id='DESKTOP-B6L7KQT'
+ host_addr='fe80::3cc8:90b2:5484:fb48%18'>
+ <txt>06-JUL-2021 09:49:56 * service_update * orcl * 0
+ </txt>
+</msg>
+<msg time='2021-07-06T09:50:08.314+05:30' org_id='oracle' comp_id='tnslsnr'
+ type='UNKNOWN' level='16' host_id='DESKTOP-B6L7KQT'
+ host_addr='fe80::3cc8:90b2:5484:fb48%18'>
+ <txt>06-JUL-2021 09:50:08 * ping * 0
+ </txt>
+</msg>
+<msg time='2021-07-06T09:50:08.701+05:30' org_id='oracle' comp_id='tnslsnr'
+ type='UNKNOWN' level='16' host_id='DESKTOP-B6L7KQT'
+ host_addr='fe80::3cc8:90b2:5484:fb48%18'>
+ <txt>06-JUL-2021 09:50:08 * (CONNECT_DATA=(CID=(PROGRAM=)(HOST=)(USER=SYSTEM))(COMMAND=status)(ARGUMENTS=64)(SERVICE=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521)))(VERSION=186646784)) * status * 0
+ </txt>
+</msg>
+<msg time='2021-07-06T09:50:14.807+05:30' org_id='oracle' comp_id='tnslsnr'
+ type='UNKNOWN' level='16' host_id='DESKTOP-B6L7KQT'
+ host_addr='fe80::3cc8:90b2:5484:fb48%18'>
+ <txt>06-JUL-2021 09:50:14 * (CONNECT_DATA=(SID=orcl)(CID=(PROGRAM=D:\oraclexe\product\11.2.0\dbhome_1\perl\bin\perl.exe)(HOST=DESKTOP-B6L7KQT)(USER=SYSTEM))) * (ADDRESS=(PROTOCOL=tcp)(HOST=127.0.0.1)(PORT=59975)) * establish * 
