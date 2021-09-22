@@ -153,7 +153,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="D:\WorkSpace\Spring\SpringBoot\.metadata\.plugins\org.eclipse.wst.server.core\tmp1\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="D:\WorkSpace\Spring\SpringBoot\.metadata\.plugins\org.eclipse.wst.server.core\tmp1\wtpwebapps\SpringBootMVCProj09-MiniProject-EmployeeCURD-ServerSideFormValidation" path="/SpringBootMVCProj09-MiniProject-EmployeeCURD-ServerSideFormValidation" reloadable="true" source="org.eclipse.jst.jee.server:SpringBootMVCProj09-MiniProject-EmployeeCURD-ServerSideFormValidation"/></Host>
+      <Context docBase="D:\WorkSpace\Spring\SpringBoot\.metadata\.plugins\org.eclipse.wst.server.core\tmp1\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="D:\WorkSpace\Spring\SpringBoot\.metadata\.plugins\org.eclipse.wst.server.core\tmp1\wtpwebapps\SpringBootMVCProj10-ReferenceData" path="/SpringBootMVCProj10-ReferenceData" reloadable="true" source="org.eclipse.jst.jee.server:SpringBootMVCProj10-ReferenceData"/></Host>
     </Engine>
   </Service>
 </Server>
