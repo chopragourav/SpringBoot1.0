@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="SpringBootMVCProj10-ReferenceData"/>
+<aop-project name="SpringBootMVCProj11-ReferenceData-DynamicSelectBox"/>
+<aop-project name="SpringBootMVCProj12-InitBiner"/>
 <aop-project name="SpringBootMVCProj09-MiniProject-EmployeeCURD-ServerSideFormValidation"/>
 </aop-reference-model>
